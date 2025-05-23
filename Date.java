@@ -10,7 +10,7 @@ class student {
         this.course = course;
     }
     public void display() {
-        
+        System.out.println("Student Details");
         System.out.println("Student Name: " + name);
         System.out.println("Roll Number: " + rollNumber);
         System.out.println("Course: " + course);
